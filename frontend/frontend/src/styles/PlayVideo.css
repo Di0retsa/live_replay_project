@@ -1,0 +1,425 @@
+.play-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #08023a;
+}
+
+.video-player-wrapper {
+  width: 100%;
+  padding-bottom: 56.25%;
+  height: 0;
+  position: absolute;
+  top: 25vh;
+}
+
+.video-player {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.video-controls {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 10;
+}
+
+.back-button {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border-width: 1px;
+  border-color: #fff;
+  border-radius: 4px;
+  padding: 8px 16px;
+  z-index: 100;
+  position: fixed;
+  cursor: pointer;
+}
+
+.stream-panle {
+  z-index: 100;
+  width: 100%;
+  min-height: 30vh;
+  position: fixed;
+  bottom: 0;
+  padding-left: 4vw;
+  padding-right: 4vw;
+}
+
+.stream-panle h3 {
+  background-color: #fff;
+
+}
+
+.video-discussion-area {
+  width: 82%;
+  margin-bottom: 1vh;
+  height: 24vh;
+  flex: 1;
+  /* padding-left: 4vw; */
+  overflow-y: auto;
+  padding-right: 2vw;
+}
+
+.video-title {
+  font-size: 18px;
+  margin: 0 0 10px 0;
+  color: #fff;
+}
+
+.video-stats {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.video-description {
+  margin-bottom: 20px;
+}
+
+.video-description h3 {
+  font-size: 16px;
+  margin-bottom: 8px;
+  color: #fff;
+}
+
+.video-description p {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #fff
+}
+
+.interaction-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  background-color: #fff;
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.comment-input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  margin-right: 10px;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.action-btn {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: none;
+  background-color: #f5f5f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.action-btn .icon {
+  font-size: 20px;
+}
+
+.loading,
+.error-message {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 16px;
+  color: #666;
+}
+
+.full-page-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+}
+
+.overlay-poster {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.3;
+  filter: blur(5px);
+  z-index: -1;
+}
+
+.play-overlay-btn {
+  width: 4vw;
+  height: 2vw;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.2);
+  border: 3px solid #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  z-index: 1001;
+  position: relative;
+}
+
+.play-overlay-btn:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+  transform: scale(1.1);
+}
+
+.play-overlay-btn .play-icon {
+  color: #fff;
+  font-size: 48px;
+  margin-left: 8px;
+}
+
+.play-overlay-btn {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.2);
+  border: 2px solid #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.play-overlay-btn:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+  transform: scale(1.1);
+}
+
+.play-overlay-btn .play-icon {
+  color: #fff;
+  font-size: 36px;
+  margin-left: 5px;
+}
+
+.stream-panle {
+  width: 100%;
+}
+
+.message-box li {
+  font-size: 12px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  margin-bottom: 4px;
+}
+
+.message {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.message-sender {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  display: inline-block;
+  text-align: center;
+  margin-right: 2px;
+  font-size: 12px;
+  width: 68px;
+  padding-left: 5px;
+  padding-right: 5px;
+  height: 18px;
+  background-color: #aaa;
+  color: white;
+  border-radius: 9px;
+  border: none;
+}
+
+.seek-indicator {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 15px 20px;
+  border-radius: 8px;
+  text-align: center;
+  z-index: 100;
+}
+
+.seek-direction {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.seek-direction.forward::before {
+  content: '⏩ ';
+}
+
+.seek-direction.backward::before {
+  content: '⏪ ';
+}
+
+.seek-time {
+  font-size: 14px;
+}
+
+.video-player-wrapper {
+  touch-action: none;
+  user-select: none;
+}
+
+.play-pause-indicator {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 1;
+  transition: opacity 0.5s ease;
+  z-index: 100;
+  pointer-events: none;
+}
+
+.play-pause-indicator.fade-out {
+  opacity: 0;
+}
+
+.play-pause-icon {
+  font-family: monospace;
+  font-size: 36px;
+}
+
+.video-footer {
+  width: 100%;
+  display: flex;
+}
+
+.message-input {
+  width: 55vw;
+  height: 4vh;
+  border-radius: 2vh;
+  border: none;
+  padding-left: 10px;
+  background-color: rgba(0, 0, 0, 1);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.message-input-typing {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  height: 7vh;
+  background-color: #fff;
+}
+
+.input-typing {
+  width: 70%;
+  height: 4vh;
+  margin-left: 2vw;
+  margin-top: 1.5vh;
+  border: none;
+  border-radius: 2vh;
+  padding-left: 10px;
+  background-color: #eee;
+  color: #1334eb;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.more-btn {
+  width: 10%;
+  margin-left: 3vw;
+  height: 4vh;
+  background-color: #000;
+  border: none;
+  border-radius: 2vh;
+  text-align: center;
+  line-height: 4vh;
+  font-size: 2.5vh;
+}
+
+/* Emoji 按钮样式 */
+.emoji-btn,
+.emoji-btn-typing {
+  width: 10%;
+  height: 4vh;
+  background-color: #000;
+  border: none;
+  border-radius: 2vh;
+  text-align: center;
+  line-height: 4vh;
+  font-size: 2.5vh;
+  cursor: pointer;
+  color: white;
+}
+
+.emoji-btn-typing {
+  position: absolute;
+  right: 20vw;
+  top: 50%;
+  transform: translateY(-50%);
+  width: auto;
+  background-color: transparent;
+}
+
+/* Emoji Picker 容器样式 */
+.emoji-picker-container {
+  font-size: 10px;
+  width: 90vw;
+  position: absolute;
+  bottom: 8vh;
+  left: 5vw;
+  z-index: 1002;
+  border-radius: 8px;
+}
+
+.send-btn {
+  width: 15%;
+  height: 4vh;
+  padding: 0;
+  background-color: #eee;
+  color: #1334eb;
+  position: absolute;
+  border-radius: 1vh;
+  right: 2vw;
+  top: 1.5vh;
+}
+
+/* 确保 emoji picker 内部元素正确显示 */
+.emoji-picker-react {
+  border: none;
+
+}

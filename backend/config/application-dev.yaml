@@ -1,0 +1,31 @@
+server:
+  port: 8080
+  level: debug
+
+datasource:
+  host: localhost
+  port: 3306
+  username: replay_user
+  password: password
+  db_name: live_replay_db
+  config: charset=utf8mb4&parseTime=True&loc=Local
+
+log:
+  level: debug
+  filepath: ./logger/systemLog.txt
+
+jwt:
+  secret: user
+  ttl: 7200000
+  name: Authorization
+
+redis:
+  host: localhost
+  port: 6379
+  max_idle: 5
+  idle_timeout: 240
+  max_active: 15
+  wait: true
+  max_conn_life_time: 30
+#  username: root
+  password: your_password

@@ -1,0 +1,739 @@
+{"time":"2025-05-15T23:11:02.2067045+08:00","level":"INFO","msg":"xixi"}
+{"time":"2025-05-15T23:12:46.3715258+08:00","level":"INFO","msg":"xixi","hello":"world"}
+{"time":"2025-05-16T14:05:23.2924773+08:00","level":"DEBUG","msg":"UserController: Register Binding Failed"}
+{"time":"2025-05-16T14:07:02.4006773+08:00","level":"DEBUG","msg":"UserController: Register Failed"}
+{"time":"2025-05-16T14:10:01.3303094+08:00","level":"DEBUG","msg":"UserController: Register Binding Failed"}
+{"time":"2025-05-16T14:11:32.3755909+08:00","level":"DEBUG","msg":"UserController: Register Binding Failed"}
+{"time":"2025-05-16T22:58:42.2266874+08:00","level":"DEBUG","msg":"UserController: Register Binding Failed"}
+{"time":"2025-05-16T23:10:58.7403286+08:00","level":"DEBUG","msg":"ReplayController Upload Video Failed:","!BADKEY":"http: no such file"}
+{"time":"2025-05-16T23:13:51.0914214+08:00","level":"DEBUG","msg":"ReplayController Upload Video Failed:","!BADKEY":"http: no such file"}
+{"time":"2025-05-16T23:15:06.2540552+08:00","level":"DEBUG","msg":"ReplayController Upload Video Failed:","!BADKEY":"http: no such file"}
+{"time":"2025-05-16T23:18:03.6961787+08:00","level":"DEBUG","msg":"ReplayController Upload Video Failed:","!BADKEY":"http: no such file"}
+{"time":"2025-05-16T23:25:53.432614+08:00","level":"DEBUG","msg":"ReplayController Save Replay Failed:","!BADKEY":"ffprobe 执行失败: exec: \"ffprobe\": executable file not found in %PATH%, Stderr: "}
+{"time":"2025-05-16T23:27:15.9506682+08:00","level":"DEBUG","msg":"ReplayController Save Replay Failed:","!BADKEY":"ffprobe 执行失败: exec: \"ffprobe\": executable file not found in %PATH%, Stderr: "}
+{"time":"2025-05-16T23:27:49.5452752+08:00","level":"DEBUG","msg":"ReplayController Save Replay Failed:","!BADKEY":"ffprobe 执行失败: exec: \"ffprobe\": executable file not found in %PATH%, Stderr: "}
+{"time":"2025-05-16T23:28:30.4233615+08:00","level":"DEBUG","msg":"ReplayController Save Replay Failed:","!BADKEY":"ffprobe 执行失败: exec: \"ffprobe\": executable file not found in %PATH%, Stderr: "}
+{"time":"2025-05-16T23:34:17.3468646+08:00","level":"DEBUG","msg":"ReplayController Save Replay Failed:","!BADKEY":"ffprobe 执行失败: exec: \"ffprobe\": executable file not found in %PATH%, Stderr: "}
+{"time":"2025-05-16T23:34:53.9909239+08:00","level":"DEBUG","msg":"ReplayController Save Replay Failed:","!BADKEY":"ffprobe 执行失败: exec: \"ffprobe\": executable file not found in %PATH%, Stderr: "}
+{"time":"2025-05-16T23:35:26.8698436+08:00","level":"DEBUG","msg":"ReplayController Save Replay Failed:","!BADKEY":"ffprobe 执行失败: exec: \"ffprobe\": executable file not found in %PATH%, Stderr: "}
+{"time":"2025-05-16T23:35:49.2878878+08:00","level":"DEBUG","msg":"ReplayController Save Replay Failed:","!BADKEY":"ffprobe 执行失败: exec: \"ffprobe\": executable file not found in %PATH%, Stderr: "}
+{"time":"2025-05-16T23:42:13.6581367+08:00","level":"DEBUG","msg":"ReplayController Save Replay Failed:","!BADKEY":"ffprobe 执行失败: exec: \"ffprobe\": executable file not found in %PATH%, Stderr: "}
+{"time":"2025-05-16T23:42:20.231979+08:00","level":"DEBUG","msg":"ReplayController Save Replay Failed:","!BADKEY":"ffprobe 执行失败: exec: \"ffprobe\": executable file not found in %PATH%, Stderr: "}
+{"time":"2025-05-16T23:46:34.3118+08:00","level":"DEBUG","msg":"ReplayController Save Replay Failed:","!BADKEY":"ffprobe 执行失败: exec: \"ffprobe\": executable file not found in %PATH%, Stderr: "}
+{"time":"2025-05-16T23:54:21.3692459+08:00","level":"DEBUG","msg":"ReplayController Save Replay Failed:","!BADKEY":"ReplayDao: Save Replay Failed"}
+{"time":"2025-05-17T00:00:36.0283237+08:00","level":"DEBUG","msg":"ReplayController Save Replay Failed:","!BADKEY":"ReplayDao: Save Replay Failed"}
+{"time":"2025-05-17T00:07:41.6845316+08:00","level":"DEBUG","msg":"ReplayController Save Replay Failed:","!BADKEY":"ReplayDao: Save Replay Failed"}
+{"time":"2025-05-17T00:09:52.0350719+08:00","level":"DEBUG","msg":"ReplayController Save Replay Failed:","!BADKEY":"ReplayDao: Save Replay Failed"}
+{"time":"2025-05-17T00:10:00.6390719+08:00","level":"DEBUG","msg":"ReplayController Save Replay Failed:","!BADKEY":"ReplayDao: Save Replay Failed"}
+{"time":"2025-05-17T00:10:36.897954+08:00","level":"DEBUG","msg":"ReplayController Save Replay Failed:","!BADKEY":"ReplayDao: Save Replay Failed"}
+{"time":"2025-05-17T14:24:03.5831127+08:00","level":"DEBUG","msg":"ReplayController GetReplayById Failed:","!BADKEY":"ReplayDao: Get Replay Failed"}
+{"time":"2025-05-17T14:26:38.0698567+08:00","level":"DEBUG","msg":"ReplayController GetReplayById Failed:","!BADKEY":"ReplayDao: Get Replay Failed"}
+{"time":"2025-05-17T14:41:52.7380659+08:00","level":"DEBUG","msg":"ReplayController GetReplayById Failed:","!BADKEY":"Get Replay Failed"}
+{"time":"2025-05-17T14:43:52.3875465+08:00","level":"DEBUG","msg":"ReplayController GetReplayById Failed:","!BADKEY":"Get Replay Failed"}
+{"time":"2025-05-18T14:18:27.5586897+08:00","level":"DEBUG","msg":"文件未找到"}
+{"time":"2025-05-18T14:19:29.9136337+08:00","level":"DEBUG","msg":"文件未找到"}
+{"time":"2025-05-19T21:56:14.110863+08:00","level":"DEBUG","msg":"UserController: GetCode Failed"}
+{"time":"2025-05-19T21:57:41.0714493+08:00","level":"ERROR","msg":"ERR wrong number of arguments for 'auth' command"}
+{"time":"2025-05-19T21:57:41.0714493+08:00","level":"DEBUG","msg":"UserController: GetCode Failed"}
+{"time":"2025-05-19T22:01:32.1775871+08:00","level":"ERROR","msg":"ERR wrong number of arguments for 'auth' command"}
+{"time":"2025-05-19T22:01:32.1775871+08:00","level":"DEBUG","msg":"UserController: GetCode Failed"}
+{"time":"2025-05-19T22:57:56.879043+08:00","level":"DEBUG","msg":"UserController: LoginCode Failed"}
+{"time":"2025-05-19T22:58:40.1895864+08:00","level":"DEBUG","msg":"UserController: LoginCode Failed"}
+{"time":"2025-05-19T23:01:54.8226897+08:00","level":"ERROR","msg":"redigo: nil returned"}
+{"time":"2025-05-19T23:01:54.8226897+08:00","level":"DEBUG","msg":"UserController: LoginCode Failed"}
+{"time":"2025-05-19T23:02:14.5049879+08:00","level":"ERROR","msg":"redigo: nil returned"}
+{"time":"2025-05-19T23:02:14.5050415+08:00","level":"DEBUG","msg":"UserController: LoginCode Failed"}
+{"time":"2025-05-19T23:03:07.1312321+08:00","level":"ERROR","msg":"redigo: nil returned"}
+{"time":"2025-05-19T23:03:07.1312321+08:00","level":"DEBUG","msg":"UserController: LoginCode Failed"}
+{"time":"2025-05-19T23:03:26.5199648+08:00","level":"DEBUG","msg":"UserController: LoginCode Failed"}
+{"time":"2025-05-19T23:05:21.0512957+08:00","level":"DEBUG","msg":"UserController: LoginCode Failed"}
+{"time":"2025-05-20T19:47:08.583589+08:00","level":"DEBUG","msg":"ReplayController Upload Video Failed:","!BADKEY":"http: no such file"}
+{"time":"2025-05-20T20:31:15.3786961+08:00","level":"DEBUG","msg":"ReplayController Upload Video Failed:","!BADKEY":"http: no such file"}
+{"time":"2025-05-20T22:22:36.5184869+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图1.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-20T22:24:54.6368174+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-20T22:25:26.535715+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-20T22:25:37.8188433+08:00","level":"ERROR","msg":"解码图片失败: image: unknown format"}
+{"time":"2025-05-20T22:25:37.8188433+08:00","level":"DEBUG","msg":"UserController: GetCaptcha Failed"}
+{"time":"2025-05-20T22:26:10.426296+08:00","level":"ERROR","msg":"解码图片失败: image: unknown format"}
+{"time":"2025-05-20T22:26:10.461291+08:00","level":"DEBUG","msg":"UserController: GetCaptcha Failed"}
+{"time":"2025-05-20T22:26:43.1681988+08:00","level":"ERROR","msg":"解码图片失败: image: unknown format"}
+{"time":"2025-05-20T22:26:43.1925998+08:00","level":"DEBUG","msg":"UserController: GetCaptcha Failed"}
+{"time":"2025-05-20T22:26:46.9164075+08:00","level":"ERROR","msg":"解码图片失败: image: unknown format"}
+{"time":"2025-05-20T22:26:46.9164075+08:00","level":"DEBUG","msg":"UserController: GetCaptcha Failed"}
+{"time":"2025-05-20T22:26:51.1530923+08:00","level":"ERROR","msg":"解码图片失败: image: unknown format"}
+{"time":"2025-05-20T22:26:51.1535962+08:00","level":"DEBUG","msg":"UserController: GetCaptcha Failed"}
+{"time":"2025-05-20T22:26:53.7954542+08:00","level":"ERROR","msg":"解码图片失败: image: unknown format"}
+{"time":"2025-05-20T22:26:53.7954542+08:00","level":"DEBUG","msg":"UserController: GetCaptcha Failed"}
+{"time":"2025-05-20T22:27:19.9226634+08:00","level":"ERROR","msg":"解码图片失败: image: unknown format"}
+{"time":"2025-05-20T22:27:19.9226634+08:00","level":"DEBUG","msg":"UserController: GetCaptcha Failed"}
+{"time":"2025-05-20T22:27:21.2314482+08:00","level":"ERROR","msg":"解码图片失败: image: unknown format"}
+{"time":"2025-05-20T22:27:21.2314482+08:00","level":"DEBUG","msg":"UserController: GetCaptcha Failed"}
+{"time":"2025-05-20T22:27:22.4618187+08:00","level":"ERROR","msg":"解码图片失败: image: unknown format"}
+{"time":"2025-05-20T22:27:22.4618187+08:00","level":"DEBUG","msg":"UserController: GetCaptcha Failed"}
+{"time":"2025-05-20T22:27:23.6451226+08:00","level":"ERROR","msg":"解码图片失败: image: unknown format"}
+{"time":"2025-05-20T22:27:23.6451226+08:00","level":"DEBUG","msg":"UserController: GetCaptcha Failed"}
+{"time":"2025-05-20T22:27:43.2205156+08:00","level":"ERROR","msg":"解码图片失败: image: unknown format"}
+{"time":"2025-05-20T22:27:43.2205156+08:00","level":"DEBUG","msg":"UserController: GetCaptcha Failed"}
+{"time":"2025-05-20T22:27:52.0599145+08:00","level":"ERROR","msg":"解码图片失败: image: unknown format"}
+{"time":"2025-05-20T22:27:52.0599145+08:00","level":"DEBUG","msg":"UserController: GetCaptcha Failed"}
+{"time":"2025-05-20T22:28:01.1920277+08:00","level":"ERROR","msg":"解码图片失败: image: unknown format"}
+{"time":"2025-05-20T22:28:01.1925352+08:00","level":"DEBUG","msg":"UserController: GetCaptcha Failed"}
+{"time":"2025-05-20T22:28:51.059932+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图1.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-20T22:29:50.1015745+08:00","level":"ERROR","msg":"解码图片失败: image: unknown format"}
+{"time":"2025-05-20T22:29:50.1628523+08:00","level":"DEBUG","msg":"UserController: GetCaptcha Failed"}
+{"time":"2025-05-20T22:31:18.6539379+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图1.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-20T22:31:23.3406231+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图6.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-20T22:31:30.7192742+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-20T22:31:43.2979412+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-20T22:32:38.4526951+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图1.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-20T22:33:11.8991666+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图16.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-20T22:33:29.9667379+08:00","level":"ERROR","msg":"strconv.ParseInt: parsing \"/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADwAPAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APSf7OU4w5x6jvTG09gflcEe9YkU9xAMQzyRjsA3A/CrK6tqCjHnI3u0QNdnKzXnfc0PsEn+z+dSLp5PVufYVmHWNQI4kgB9RD/9eopNQvpQQ93IF7hPl/lRysbqM3JEtbFN88ip6Bjlj9BWPeajJdSfuS8MQ+703H3Pp9KohQDkdfUnJ/OnfWqUbbkOTMXUpboymO4neRcZGScEfSvSfCtslj4dtY24LgyYA6Zrz/V0JijlA6EjNei6fIJdLs3QjBgXp9Kqu17ONjiw8WsTUu77HFg0tQXNwLaEyFS2CBgUltdx3KErlWX7ynqKDrJ6K0LXRb26VXCiKNhkNJx+lXj4ft4FBur4qT/dUCoc4opRZgEhRk8Cn+XIekchz6Ia6qx0zT4gJIVWVh/G5yR+HatEttUktgAZJz0rN1tbJFezPNdabasNquSVHmScEcngVY0nxZdaRYrZ+QsyqSVLHkA9vzzXZ3V7p8qmO4CzA9QyZ/nWDNofhqeQyBrmDP8ABG5Cj6DtXRTrwceWpE87EYGv7b21GWr01MOy339p5To0jMdoCjlq6DQ/CRspxcX8iyHAIgXpntu9fpWpomlJplnH8o89l5J/hHp/jWhPMLa3eU8lRx7ntXPOq2+WJ6cYFbUb5oT5UTYkPLN/drDeXLE/fbuzGid2JJY5Lck+ppbO3N5crCMhTyxHYUopRRrY09HRmZ5h8seMc9zVfUtQM0hiiJEa9x/EfWrup3MdnarbQ4ViMBR/Cvv9awetEVd3Y0uomefejNLTa0GdjnLE1S1hC+nswcKkeXcnoABVxa5/xtO8Phx1jOBLIqN9OTj9K5U9TNblK2X7Vaw3TExwyruUsOcfSr4vY7O3MdmrCRvvSt1/AVnyHbFbxDhEhQKP+AikAwK6Er7mgrEuxZiSxOSSeTR0FFJVAFFLRQM//9k=\": invalid syntax"}
+{"time":"2025-05-20T22:33:29.9672444+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-20T22:34:38.40888+08:00","level":"ERROR","msg":"strconv.ParseInt: parsing \"/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADwAPAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APSf7OU4w5x6jvTG09gflcEe9YkU9xAMQzyRjsA3A/CrK6tqCjHnI3u0QNdnKzXnfc0PsEn+z+dSLp5PVufYVmHWNQI4kgB9RD/9eopNQvpQQ93IF7hPl/lRysbqM3JEtbFN88ip6Bjlj9BWPeajJdSfuS8MQ+703H3Pp9KohQDkdfUnJ/OnfWqUbbkOTMXUpboymO4neRcZGScEfSvSfCtslj4dtY24LgyYA6Zrz/V0JijlA6EjNei6fIJdLs3QjBgXp9Kqu17ONjiw8WsTUu77HFg0tQXNwLaEyFS2CBgUltdx3KErlWX7ynqKDrJ6K0LXRb26VXCiKNhkNJx+lXj4ft4FBur4qT/dUCoc4opRZgEhRk8Cn+XIekchz6Ia6qx0zT4gJIVWVh/G5yR+HatEttUktgAZJz0rN1tbJFezPNdabasNquSVHmScEcngVY0nxZdaRYrZ+QsyqSVLHkA9vzzXZ3V7p8qmO4CzA9QyZ/nWDNofhqeQyBrmDP8ABG5Cj6DtXRTrwceWpE87EYGv7b21GWr01MOy339p5To0jMdoCjlq6DQ/CRspxcX8iyHAIgXpntu9fpWpomlJplnH8o89l5J/hHp/jWhPMLa3eU8lRx7ntXPOq2+WJ6cYFbUb5oT5UTYkPLN/drDeXLE/fbuzGid2JJY5Lck+ppbO3N5crCMhTyxHYUopRRrY09HRmZ5h8seMc9zVfUtQM0hiiJEa9x/EfWrup3MdnarbQ4ViMBR/Cvv9awetEVd3Y0uomefejNLTa0GdjnLE1S1hC+nswcKkeXcnoABVxa5/xtO8Phx1jOBLIqN9OTj9K5U9TNblK2X7Vaw3TExwyruUsOcfSr4vY7O3MdmrCRvvSt1/AVnyHbFbxDhEhQKP+AikAwK6Er7mgrEuxZiSxOSSeTR0FFJVAFFLRQM//9k=\": invalid syntax"}
+{"time":"2025-05-20T22:34:38.40888+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-20T22:34:46.2732344+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图2.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-20T22:35:08.2447083+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-20T22:35:27.2866632+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-20T22:36:05.5205876+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-20T22:36:20.2942026+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图10.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-20T22:53:35.3297224+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图2.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-20T22:54:54.2606328+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图13.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-20T22:55:52.264755+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图16.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-20T22:58:44.2083732+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-20T22:58:53.4562005+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-20T22:59:12.1989615+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图9.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T11:08:41.3235133+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图14.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T11:09:01.6856433+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T11:09:13.7234309+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T11:09:44.5621291+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T11:10:20.1803688+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T11:10:39.31606+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T11:12:46.1231454+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T11:12:59.8259153+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T11:14:33.6651692+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T11:14:38.1921617+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T11:15:55.5967308+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T11:15:56.9360892+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图3.png, 格式: png, 尺寸: 1920x900"}
+{"time":"2025-05-21T11:16:00.0121256+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T11:16:01.5933243+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图6.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-21T11:16:06.9502485+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T11:16:08.2170561+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图5.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T11:16:13.9329877+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T11:16:15.1875735+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图16.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T11:16:37.7774404+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T11:16:39.2390025+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图3.png, 格式: png, 尺寸: 1920x900"}
+{"time":"2025-05-21T11:19:07.9630264+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T11:19:09.2445673+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图5.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T11:19:13.4997737+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T11:19:14.8516516+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图9.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T11:30:47.3062211+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图6.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-21T11:30:47.349385+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图9.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T11:30:50.7531984+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图7.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T11:31:02.2653152+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T11:31:04.0065171+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图5.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T11:31:05.739389+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图12.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T12:43:28.3869441+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图4.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T12:43:31.3735206+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T12:45:30.012617+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T12:45:48.3819798+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T12:46:48.5563692+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T12:47:35.7719162+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T12:47:57.6473152+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T12:50:10.821866+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T12:50:17.783382+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T12:50:49.6525803+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T12:52:14.8763919+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T12:53:16.8944341+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T12:54:05.9285141+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T12:54:26.3066091+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T12:55:52.8777065+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T12:55:57.6035177+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图11.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T12:56:07.6337751+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:01:32.220282+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:01:42.7289951+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:02:32.4308636+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:04:17.7495561+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:04:44.8142336+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:06:11.8427574+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:06:30.0119776+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:08:39.4351709+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:08:39.4456061+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:08:44.2989759+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:08:46.3354016+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:08:46.3450767+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:10:08.8674525+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:10:08.8706574+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:11:34.1601542+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:11:34.1606868+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:11:56.8277225+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:14:58.4179937+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:15:02.0993134+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图8.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:16:06.2010701+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:16:13.0842523+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:18:35.8487043+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:20:18.2788524+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图13.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:20:36.6418907+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:20:59.3580326+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图6.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:21:02.4647496+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:21:39.5784753+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图4.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:21:44.2255141+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:23:49.7383753+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:24:55.4023065+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:25:45.2592895+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图8.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:25:48.6086111+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:25:51.6475701+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图4.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:25:56.0696327+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:26:01.9942932+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:26:03.8408422+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图6.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:26:06.6246479+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:26:43.5583356+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:26:58.6751441+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图3.png, 格式: png, 尺寸: 1920x900"}
+{"time":"2025-05-21T13:27:28.3964491+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:27:44.2160944+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:28:53.5094876+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:30:33.1633458+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图16.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:30:34.3810772+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图4.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:30:35.3734378+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图12.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:30:36.3494253+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图6.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:30:37.3742924+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图11.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:30:38.4806623+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图8.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:30:39.5748313+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图8.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:30:40.5127644+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图14.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:30:41.4214209+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图6.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:30:42.3911135+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图4.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:30:43.3550754+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图13.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:30:44.3601905+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图14.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:30:45.2137628+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图9.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:30:46.2464009+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图4.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:30:47.1602964+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图13.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:30:48.1462285+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图2.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:31:39.8685706+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图15.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:31:47.3304317+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图4.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:32:51.8552916+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:33:22.4480319+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:33:24.8046896+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图4.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:33:25.9644392+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图15.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:33:27.1873789+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图11.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:33:28.1418778+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图13.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:33:29.1187286+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图4.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:35:22.6334775+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图5.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:35:24.7386383+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:35:28.4052458+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图14.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:35:41.5034268+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:38:04.9514641+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:38:08.9465528+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图8.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:38:20.155208+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:38:22.8541663+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图7.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:39:52.7786951+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图7.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:39:59.0315547+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:40:20.8028973+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图16.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:40:26.0195259+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:40:40.5970248+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:40:58.6560785+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:41:29.9339288+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:41:30.1440965+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图11.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:41:59.3894607+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图12.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:44:39.4268425+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:44:39.6205657+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图13.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:44:42.8704959+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图12.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:44:44.8576799+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:45:16.0135959+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:45:36.3176153+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:46:18.2582472+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图3.png, 格式: png, 尺寸: 1920x900"}
+{"time":"2025-05-21T13:46:19.961937+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:46:41.3590197+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:46:41.3699645+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:46:49.8722169+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:47:24.1071087+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:48:05.6010076+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:48:10.72653+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:48:35.6039052+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:48:38.0032774+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图11.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:48:40.5321262+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:49:35.890545+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:49:58.9393491+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:50:31.3336303+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:51:03.8706057+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:51:26.0461498+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:51:31.9269288+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:51:58.4177396+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:52:04.5460417+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:52:13.0204983+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:52:40.6097436+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Binding Failed"}
+{"time":"2025-05-21T13:52:56.5929654+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:53:03.5987283+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图4.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:53:28.554938+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图11.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:53:36.8508273+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:54:24.518223+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:54:28.2130021+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:54:31.7176939+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:54:34.4160848+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:54:36.2554667+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:56:22.4963615+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:56:24.1985303+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图14.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:57:06.1663776+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:57:21.1989229+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图6.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-21T13:57:40.847604+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:58:19.493683+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:58:48.9970571+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:59:03.804819+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:59:11.1747706+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:59:13.8455384+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T13:59:56.3712403+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T14:00:03.2938236+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T14:00:51.7320443+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T14:01:24.6099799+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T14:01:25.8586138+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图15.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-21T14:01:31.5054039+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-21T14:04:14.0663541+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图14.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T14:04:43.6132157+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图11.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T14:06:52.4877716+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图11.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T16:07:07.2141744+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图15.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-21T19:00:09.810328+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图5.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T19:50:33.426476+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图8.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-21T19:50:35.5030854+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-22T14:16:27.4966816+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图12.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T14:31:14.7173322+08:00","level":"DEBUG","msg":"UserController: Login Binding Failed"}
+{"time":"2025-05-22T14:31:31.7629847+08:00","level":"DEBUG","msg":"UserController: Login Failed"}
+{"time":"2025-05-22T19:28:55.2408637+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图3.png, 格式: png, 尺寸: 1920x900"}
+{"time":"2025-05-22T19:29:14.2786337+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图7.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:16.9672726+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图7.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:18.1772589+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图13.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:19.4278219+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图14.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:20.5351157+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图7.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:21.6018336+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图3.png, 格式: png, 尺寸: 1920x900"}
+{"time":"2025-05-22T19:29:22.691739+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图1.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:23.9032828+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图10.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:24.8680155+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图16.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:25.9833372+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图1.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:27.1159746+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图15.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:28.1990923+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图7.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:29.325669+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图5.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:30.3741576+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图10.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:31.8629054+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图10.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:33.1019968+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图13.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:34.3195575+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图16.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:35.412247+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图13.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:36.5247679+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图12.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:37.7067266+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图13.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:38.6989816+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图15.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:39.8511238+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图11.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:29:40.863847+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图3.png, 格式: png, 尺寸: 1920x900"}
+{"time":"2025-05-22T19:34:47.9068168+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图7.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:34:49.2810732+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图16.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T19:34:50.2340368+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图6.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-22T21:35:25.1359514+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图15.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-22T21:40:13.6751173+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图15.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-22T22:44:49.9043773+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图11.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-22T23:58:06.0999543+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图13.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-23T10:23:55.1509121+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑块验证码例图3.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-23T16:22:03.0402469+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=6) from 127.0.0.1:54699\n"}
+{"time":"2025-05-23T16:22:21.2846865+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=6) from 127.0.0.1:54737\n"}
+{"time":"2025-05-23T20:53:10.2882355+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:61853\n"}
+{"time":"2025-05-23T20:53:10.3003406+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:61854\n"}
+{"time":"2025-05-23T21:08:27.2603813+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图14.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-23T21:08:39.4913894+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:65441\n"}
+{"time":"2025-05-23T21:08:39.5027915+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:65444\n"}
+{"time":"2025-05-23T21:11:35.6898803+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=9) from [::1]:49739\n"}
+{"time":"2025-05-23T21:11:35.7054148+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=9) from [::1]:49740\n"}
+{"time":"2025-05-23T21:20:58.6653539+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:53124\n"}
+{"time":"2025-05-23T21:20:58.6770787+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:53127\n"}
+{"time":"2025-05-23T21:20:59.1689076+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=9) from [::1]:53132\n"}
+{"time":"2025-05-23T21:20:59.1923369+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=9) from [::1]:53135\n"}
+{"time":"2025-05-23T21:23:29.7285708+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:53863\n"}
+{"time":"2025-05-23T21:23:30.1546986+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=9) from [::1]:53866\n"}
+{"time":"2025-05-23T21:26:49.0539447+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:54853\n"}
+{"time":"2025-05-23T21:26:49.0798154+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:54854\n"}
+{"time":"2025-05-23T21:27:30.430619+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:55117\n"}
+{"time":"2025-05-23T21:27:30.4358938+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:55118\n"}
+{"time":"2025-05-23T21:31:19.2905664+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:56033\n"}
+{"time":"2025-05-23T21:31:19.2939477+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:56034\n"}
+{"time":"2025-05-23T21:36:15.2613202+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:57251\n"}
+{"time":"2025-05-23T22:27:17.1717883+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:64574\n"}
+{"time":"2025-05-23T22:27:17.1799346+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:64577\n"}
+{"time":"2025-05-23T22:29:28.1627041+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:65270\n"}
+{"time":"2025-05-23T22:29:28.1639721+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:65271\n"}
+{"time":"2025-05-23T22:38:00.2091853+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:51509\n"}
+{"time":"2025-05-23T22:38:00.2306138+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:51513\n"}
+{"time":"2025-05-23T22:57:56.7495398+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:64514\n"}
+{"time":"2025-05-23T22:57:56.7659591+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:64516\n"}
+{"time":"2025-05-23T22:57:57.7107238+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:64536\n"}
+{"time":"2025-05-23T22:57:57.7779073+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:64537\n"}
+{"time":"2025-05-23T22:57:57.8036374+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:64538\n"}
+{"time":"2025-05-23T22:58:29.3492258+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:64730\n"}
+{"time":"2025-05-23T22:58:29.3698535+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:64735\n"}
+{"time":"2025-05-23T22:58:38.6190998+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:64768\n"}
+{"time":"2025-05-23T22:58:38.6418903+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:64769\n"}
+{"time":"2025-05-23T23:00:49.2344005+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:59706\n"}
+{"time":"2025-05-23T23:00:57.6778215+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:59741\n"}
+{"time":"2025-05-23T23:00:57.6904899+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:59742\n"}
+{"time":"2025-05-23T23:00:58.1747576+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:59743\n"}
+{"time":"2025-05-23T23:00:58.1874283+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:59744\n"}
+{"time":"2025-05-23T23:01:11.0532364+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:59794\n"}
+{"time":"2025-05-23T23:01:11.1585916+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:59796\n"}
+{"time":"2025-05-23T23:25:37.7893194+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:64487\n"}
+{"time":"2025-05-23T23:25:37.8019518+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:64490\n"}
+{"time":"2025-05-23T23:53:43.3278752+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=4) from [::1]:52361\n"}
+{"time":"2025-05-23T23:54:46.4884995+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:52550\n"}
+{"time":"2025-05-23T23:59:41.5764537+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=4) from [::1]:53337\n"}
+{"time":"2025-05-24T00:00:47.9223176+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图7.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-24T00:02:28.5594939+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=12) from [::1]:53536\n"}
+{"time":"2025-05-24T00:02:28.5594939+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=12) from [::1]:53690\n"}
+{"time":"2025-05-24T00:04:08.7728709+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=10) from [::1]:53969\n"}
+{"time":"2025-05-24T00:04:18.2138093+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑块验证码例图17.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-24T00:04:42.3846812+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=10) from [::1]:54085\n"}
+{"time":"2025-05-24T00:05:23.5885799+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=10) from [::1]:54227\n"}
+{"time":"2025-05-24T00:05:57.6391105+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:54302\n"}
+{"time":"2025-05-24T00:07:40.2338559+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:54579\n"}
+{"time":"2025-05-24T00:08:05.4616357+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=10) from [::1]:54640\n"}
+{"time":"2025-05-24T00:08:25.1769315+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=10) from [::1]:54712\n"}
+{"time":"2025-05-24T00:12:17.987892+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑块验证码例图17.jpg, 格式: jpeg, 尺寸: 1920x1080"}
+{"time":"2025-05-24T00:12:27.5186066+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=10) from [::1]:55300\n"}
+{"time":"2025-05-24T00:18:40.8170042+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:56075\n"}
+{"time":"2025-05-24T00:22:29.2172164+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:54557\n"}
+{"time":"2025-05-24T13:33:57.0205555+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=7) from [::1]:65088\n"}
+{"time":"2025-05-24T13:33:57.0430142+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=7) from [::1]:65092\n"}
+{"time":"2025-05-24T13:34:07.7467336+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:65103\n"}
+{"time":"2025-05-24T13:34:17.7964199+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:65140\n"}
+{"time":"2025-05-24T13:40:41.1670396+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:49699\n"}
+{"time":"2025-05-24T13:51:34.5530032+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:55390\n"}
+{"time":"2025-05-24T13:55:40.1563945+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:56032\n"}
+{"time":"2025-05-24T14:01:38.333934+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:56747\n"}
+{"time":"2025-05-24T14:03:54.8261162+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:57095\n"}
+{"time":"2025-05-24T14:06:01.5957202+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:57464\n"}
+{"time":"2025-05-24T14:07:07.7551959+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:57579\n"}
+{"time":"2025-05-24T14:07:07.779117+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:57580\n"}
+{"time":"2025-05-24T14:07:33.941567+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:57648\n"}
+{"time":"2025-05-24T14:08:04.2443192+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:57691\n"}
+{"time":"2025-05-24T14:09:14.1934439+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图10.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-24T14:09:31.7717652+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:57844\n"}
+{"time":"2025-05-24T14:10:52.198877+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:57966\n"}
+{"time":"2025-05-24T14:12:32.7739612+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:58101\n"}
+{"time":"2025-05-24T14:12:32.7944365+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:58107\n"}
+{"time":"2025-05-24T14:13:40.5320301+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图5.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-24T14:13:52.9072396+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:58254\n"}
+{"time":"2025-05-24T14:14:01.0012228+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:58262\n"}
+{"time":"2025-05-24T14:14:06.4163365+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=4) from [::1]:58267\n"}
+{"time":"2025-05-24T14:14:13.2006964+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:58290\n"}
+{"time":"2025-05-24T14:16:59.4983654+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:58527\n"}
+{"time":"2025-05-24T14:17:08.1249137+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:58540\n"}
+{"time":"2025-05-24T14:18:45.2681777+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图11.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-24T14:18:47.6327297+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-24T14:19:00.7719209+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:58727\n"}
+{"time":"2025-05-24T14:19:14.0396784+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:58756\n"}
+{"time":"2025-05-24T14:19:14.0522868+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:58757\n"}
+{"time":"2025-05-24T14:24:53.7315716+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图16.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-24T14:25:13.0852749+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:56496\n"}
+{"time":"2025-05-24T14:25:27.3613795+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图5.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-24T14:25:37.9647296+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:56534\n"}
+{"time":"2025-05-24T14:26:01.526335+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:56573\n"}
+{"time":"2025-05-24T14:26:22.4812525+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:56604\n"}
+{"time":"2025-05-24T14:26:25.3080904+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:56609\n"}
+{"time":"2025-05-24T14:26:59.1939333+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:56691\n"}
+{"time":"2025-05-24T14:27:06.1807271+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:56709\n"}
+{"time":"2025-05-24T14:28:30.7014917+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:56909\n"}
+{"time":"2025-05-24T14:28:57.5175626+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:56977\n"}
+{"time":"2025-05-24T14:29:04.0036189+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=4) from [::1]:56990\n"}
+{"time":"2025-05-24T14:29:29.9193881+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:57040\n"}
+{"time":"2025-05-24T14:29:56.1186847+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=12) from [::1]:57094\n"}
+{"time":"2025-05-24T14:30:00.4929971+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:57101\n"}
+{"time":"2025-05-24T14:32:14.7463466+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:57845\n"}
+{"time":"2025-05-24T14:32:14.7588308+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:57846\n"}
+{"time":"2025-05-24T14:32:29.9220183+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:57900\n"}
+{"time":"2025-05-24T14:32:33.0144523+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:57906\n"}
+{"time":"2025-05-24T14:33:54.0046605+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:58180\n"}
+{"time":"2025-05-24T14:35:03.3532455+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:58337\n"}
+{"time":"2025-05-24T14:35:35.7452105+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:58424\n"}
+{"time":"2025-05-24T14:39:00.9755036+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:58976\n"}
+{"time":"2025-05-24T14:42:58.0114935+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:59446\n"}
+{"time":"2025-05-24T14:46:14.427615+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:59887\n"}
+{"time":"2025-05-24T14:46:41.5177113+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:59937\n"}
+{"time":"2025-05-24T14:46:50.5090136+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:59959\n"}
+{"time":"2025-05-24T14:56:41.6088196+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:49901\n"}
+{"time":"2025-05-24T14:56:41.6228311+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:49902\n"}
+{"time":"2025-05-24T14:57:17.5444169+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:49997\n"}
+{"time":"2025-05-24T14:57:18.16748+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:50062\n"}
+{"time":"2025-05-24T14:57:26.5014657+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:50094\n"}
+{"time":"2025-05-24T14:58:05.6143702+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:50184\n"}
+{"time":"2025-05-24T15:04:08.6655584+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:50961\n"}
+{"time":"2025-05-25T13:31:04.5035059+08:00","level":"DEBUG","msg":"ReplayController ListReplays Failed:","!BADKEY":"Redis EXEC Failed"}
+{"time":"2025-05-25T13:31:58.389397+08:00","level":"DEBUG","msg":"ReplayController ListReplays Failed:","!BADKEY":"Redis EXEC Failed"}
+{"time":"2025-05-25T13:33:41.7148296+08:00","level":"DEBUG","msg":"ReplayController ListReplays Failed:","!BADKEY":"Redis EXEC Failed"}
+{"time":"2025-05-25T13:34:31.1197212+08:00","level":"DEBUG","msg":"ReplayController ListReplays Failed:","!BADKEY":"Redis EXEC Failed"}
+{"time":"2025-05-25T13:35:18.2937013+08:00","level":"DEBUG","msg":"ReplayController ListReplays Failed:","!BADKEY":"Redis EXEC Failed"}
+{"time":"2025-05-25T13:38:04.5889376+08:00","level":"DEBUG","msg":"ReplayController ListReplays Failed:","!BADKEY":"Redis EXEC Failed"}
+{"time":"2025-05-25T13:43:54.8655869+08:00","level":"DEBUG","msg":"ReplayController ListReplays Failed:","!BADKEY":"Redis EXEC Failed"}
+{"time":"2025-05-25T16:17:32.9525985+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=8) from [::1]:57492\n"}
+{"time":"2025-05-25T16:26:28.4900346+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=7) from [::1]:58493\n"}
+{"time":"2025-05-25T16:27:04.4952692+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=7) from [::1]:58619\n"}
+{"time":"2025-05-25T16:27:20.9938249+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=7) from [::1]:58643\n"}
+{"time":"2025-05-25T16:28:00.7797331+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=7) from [::1]:58734\n"}
+{"time":"2025-05-25T16:31:30.6159012+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=7) from [::1]:59082\n"}
+{"time":"2025-05-25T16:32:02.8665169+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=6) from [::1]:59152\n"}
+{"time":"2025-05-25T16:32:27.079298+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=0) from [::1]:59196\n"}
+{"time":"2025-05-25T16:33:19.8722956+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=6) from [::1]:59286\n"}
+{"time":"2025-05-25T16:34:13.4064772+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=0) from [::1]:59433\n"}
+{"time":"2025-05-25T16:34:18.2431571+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=6) from [::1]:59457\n"}
+{"time":"2025-05-25T16:35:04.9324398+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=0) from [::1]:59534\n"}
+{"time":"2025-05-25T16:35:09.7132403+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=6) from [::1]:59546\n"}
+{"time":"2025-05-25T16:35:20.7446028+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=6) from [::1]:59575\n"}
+{"time":"2025-05-25T16:36:57.6217987+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=0) from [::1]:59770\n"}
+{"time":"2025-05-25T16:37:04.1616082+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=6) from [::1]:59780\n"}
+{"time":"2025-05-25T16:37:52.6568318+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=6) from [::1]:59872\n"}
+{"time":"2025-05-25T16:38:15.9714672+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=6) from [::1]:59916\n"}
+{"time":"2025-05-25T16:38:36.8509696+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=6) from [::1]:59957\n"}
+{"time":"2025-05-25T16:39:14.8770618+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=7) from [::1]:60036\n"}
+{"time":"2025-05-25T16:39:44.621433+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=7) from [::1]:60077\n"}
+{"time":"2025-05-25T16:40:18.5236508+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=6) from [::1]:60141\n"}
+{"time":"2025-05-25T16:41:51.2466592+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=7) from [::1]:60541\n"}
+{"time":"2025-05-25T16:42:08.1148952+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:60566\n"}
+{"time":"2025-05-25T16:45:57.7205185+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:60954\n"}
+{"time":"2025-05-25T16:47:13.3214947+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:61160\n"}
+{"time":"2025-05-25T16:47:26.7236441+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=7) from [::1]:61198\n"}
+{"time":"2025-05-25T16:47:47.5640746+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=7) from [::1]:61250\n"}
+{"time":"2025-05-25T16:48:59.4548128+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=11) from [::1]:61461\n"}
+{"time":"2025-05-25T17:12:04.70925+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:12:15.9076403+08:00","level":"ERROR","msg":"Update Replays Failed"}
+{"time":"2025-05-25T17:13:04.7093053+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:13:04.7672741+08:00","level":"ERROR","msg":"Update Replays Failed"}
+{"time":"2025-05-25T17:14:24.6228322+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:15:24.6231458+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:16:24.6230575+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:17:24.623056+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:18:24.6230312+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:18:29.9810496+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=12) from [::1]:64716\n"}
+{"time":"2025-05-25T17:18:43.1538196+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=12) from [::1]:64742\n"}
+{"time":"2025-05-25T17:19:24.6229975+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:20:24.6231532+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:20:44.7671442+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=16) from [::1]:65237\n"}
+{"time":"2025-05-25T17:21:05.6892905+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=17) from [::1]:65266\n"}
+{"time":"2025-05-25T17:21:24.6230929+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:22:15.3260111+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=17) from [::1]:65375\n"}
+{"time":"2025-05-25T17:22:24.6229887+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:22:40.0749072+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=12) from [::1]:65448\n"}
+{"time":"2025-05-25T17:23:19.1687315+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=17) from [::1]:65520\n"}
+{"time":"2025-05-25T17:23:24.6230343+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:23:41.5521528+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=17) from [::1]:49178\n"}
+{"time":"2025-05-25T17:26:07.9870321+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:28:56.8227887+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:29:15.1823649+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=14) from [::1]:49766\n"}
+{"time":"2025-05-25T17:29:22.9904631+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=3) from [::1]:49789\n"}
+{"time":"2025-05-25T17:29:38.3276308+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=15) from [::1]:49803\n"}
+{"time":"2025-05-25T17:29:56.8232119+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:30:56.822947+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:31:37.1588743+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=10) from [::1]:49979\n"}
+{"time":"2025-05-25T17:31:47.4750417+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=10) from [::1]:49997\n"}
+{"time":"2025-05-25T17:31:56.8230176+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:32:56.8236664+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:33:56.823307+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:34:56.8232434+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:35:56.8232876+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:36:56.8232142+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:37:56.8230285+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:38:56.823017+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:39:56.8228639+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:40:56.8230147+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:41:56.8231763+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:42:56.8228204+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:43:56.8232129+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:44:56.8228977+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:45:56.8232109+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:46:56.8228313+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:47:56.8230561+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:48:56.8228755+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:49:56.8228627+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:50:56.8230322+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:51:56.8227861+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:52:56.8227906+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:53:56.8229718+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:54:56.8232601+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:55:56.8231434+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:56:56.8230571+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:57:56.8231296+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:58:56.8227942+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T17:59:56.8232456+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:00:56.8228918+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:01:56.8230869+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:02:56.8230257+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:03:56.8232011+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:04:56.8232017+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:05:56.8229557+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:06:56.8232679+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:07:56.8230746+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:08:56.8229998+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:09:56.8228699+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:10:56.823063+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:11:56.8230975+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:12:56.8231311+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:13:56.8229512+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:14:56.8230521+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:15:56.8233457+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:16:56.8231976+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:17:56.8230549+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:18:56.8231544+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:19:56.8232109+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:20:56.8229015+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:21:56.8227829+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:22:56.8230866+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:23:56.8231849+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:24:56.8231351+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:25:56.8229988+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:26:56.8232515+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:27:56.8232266+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:28:56.8231391+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:29:56.8232806+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:30:56.8231007+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:31:56.8230512+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:32:56.8231129+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:33:56.8231714+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:34:56.8228076+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:35:56.8229606+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:36:56.8228769+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:37:56.8229701+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:38:56.8228516+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:39:56.8231064+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:40:56.8231505+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:41:56.8228581+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:42:56.8236496+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:43:56.8233371+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:44:56.8232782+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:45:56.8228755+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:46:56.8231774+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:47:56.8230205+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:48:56.8232482+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:49:56.8232842+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:50:56.8229718+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:51:56.823076+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:52:56.8229769+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:53:56.8229885+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:54:56.823288+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:55:56.8232425+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:56:56.8231361+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:57:56.8228509+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:58:56.8232682+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T18:59:56.8231541+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:00:56.823346+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:01:56.8231383+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:02:56.8232305+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:03:56.8231048+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:04:56.8228385+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:05:56.8231312+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:06:56.8230579+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:07:56.8232784+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:08:56.8228821+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:09:56.8236575+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:10:56.8231718+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:11:56.8232652+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:12:56.8230114+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:13:56.8230589+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:14:56.8228923+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:15:56.8230373+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:16:56.823019+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:17:56.8228821+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:18:56.8229016+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:19:56.822885+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:20:56.8230986+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:21:56.8229506+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:22:56.8228049+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:23:56.8229003+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:24:56.8228564+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:25:56.8231826+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:26:56.823265+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:27:56.8231646+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:28:56.8230921+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:29:56.8229169+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:30:56.8229355+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:31:56.8230921+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:32:56.8229114+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:33:56.8232487+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:34:56.8228566+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:35:56.8229148+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:36:56.8233479+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:37:56.8229015+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:38:56.8229156+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:39:56.8231152+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:40:56.8230798+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:41:56.8231003+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:42:56.8233013+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:43:56.8232288+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:44:56.8228984+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:45:56.8231789+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:46:56.8232878+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:47:56.8228357+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:48:56.8230002+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:49:56.8228522+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:50:56.823069+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:51:56.8228441+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:52:56.8228814+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:53:56.8232858+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:54:56.8234137+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:55:56.8231188+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:56:56.8228204+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:57:56.8229009+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:58:56.8230189+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T19:59:56.8229793+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:00:56.8229982+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:01:56.8232176+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:02:56.8230859+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:03:56.8230807+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:04:56.8232115+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:05:56.8228141+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:06:56.822893+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:07:56.8233114+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:08:56.8229397+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:09:56.8228185+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:10:56.822947+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:11:56.8231368+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:12:56.8231589+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:13:56.8227983+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:14:56.8229134+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:15:56.8231781+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:16:56.8231186+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:17:56.8232039+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:18:56.8228353+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:19:36.0419911+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=13) from [::1]:49164\n"}
+{"time":"2025-05-25T20:19:56.8232482+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:20:56.823263+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:21:56.8229558+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:22:11.6300762+08:00","level":"INFO","msg":"WebSocket 连接已建立 for replay %!s(uint64=4) from [::1]:49479\n"}
+{"time":"2025-05-25T20:22:56.8230049+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:23:56.8228186+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:24:56.8231986+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:25:56.8230417+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:26:56.8228365+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:27:56.82316+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:28:56.8230859+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:29:56.8229822+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:30:56.8232908+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:31:56.8230893+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:32:56.823024+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:33:56.8228526+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:34:56.8228734+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:35:56.8229302+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:36:56.8230488+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:37:56.8229849+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:38:56.8229691+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:39:56.8230804+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:40:56.8228076+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:41:56.8227952+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:42:56.8232527+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-25T20:43:56.8228641+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-26T22:28:11.1731683+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图4.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-26T22:28:52.1191736+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-26T22:29:52.1192565+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-26T22:30:52.1193474+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-26T22:31:27.373175+08:00","level":"DEBUG","msg":"UserController: VerifyCaptcha Failed"}
+{"time":"2025-05-26T22:31:28.9777242+08:00","level":"INFO","msg":"使用图片: E:\\桌面\\live_replay_project\\backend\\static\\images\\滑动验证码例图16.png, 格式: png, 尺寸: 1920x1080"}
+{"time":"2025-05-26T22:31:52.1191513+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-26T22:32:52.1190826+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-26T22:33:52.1192499+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-26T22:34:52.1193097+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-26T22:35:52.1190419+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-26T22:36:52.1192334+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-26T22:37:52.1189473+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-26T22:38:52.1189117+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-26T22:39:52.1194441+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-26T22:40:52.1191893+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-26T22:41:52.1190358+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-26T22:42:52.1191627+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
+{"time":"2025-05-26T22:43:52.1195815+08:00","level":"INFO","msg":"定时任务触发：将缓存同步至DB"}
